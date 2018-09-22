@@ -16,7 +16,7 @@ print([list1, list2,  list3])
 
 """
 Using  List Comprehensions
-# """
+"""
 
 print([[x, 2*x, 3*x] for x in range(1, len(list)+1)])
 
